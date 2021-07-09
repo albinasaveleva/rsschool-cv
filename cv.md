@@ -14,7 +14,7 @@ Albina Saveleva
 
 🌟Portfolio
 -----------
-* Demo: https://albinasaveleva.github.io/Todo-list/
+* Demo: https://albinasaveleva.github.io/todolist/
 * Demo: https://albinasaveleva.github.io/tour-plan/
 * Demo: https://albinasaveleva.github.io/Universal/
 * Demo: https://albinasaveleva.github.io/rus_tourism/
