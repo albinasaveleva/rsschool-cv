@@ -4,7 +4,7 @@ Albina Saveleva
 
 [Telegram](https://t.me/albina_saveleva) / [Email](saveleva.albina.96@mail.ru) / [GitHub](https://github.com/albinasaveleva)
 
-Skills
+👩🏼‍💻 Skills
 -----------
 * HTML
 * CSS
@@ -12,7 +12,7 @@ Skills
 * React
 * Git
 
-Portfolio
+🌟Portfolio
 -----------
 * Demo: https://albinasaveleva.github.io/Todo-list/
 * Demo: https://albinasaveleva.github.io/tour-plan/
@@ -23,13 +23,13 @@ Portfolio
 Experience
 -----------
 
-Languages
+💬 Languages
 -----------
 Russian (native)
 
 English (A2)
 
-Education
+👩🏼‍🎓 Education
 -----------
 **SoloLearn**
 
